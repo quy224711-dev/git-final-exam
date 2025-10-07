@@ -9,6 +9,12 @@
 - Ngày 5: Làm bài tập thực tế trên GitHub.
 - Ngày 6: Tự đánh giá kỹ năng Git.
 - Ngày 7: Tổng kết và ghi chú học được.
+<<<<<<< Updated upstream
 - Ngày 8: Ôn lại kiến thức Git stash.
 - Ngày 9: Làm bài thực hành stash nâng cao.
 - Ngày 10: Tổng hợp tài liệu để nộp.
+=======
+
+- Ngày 11: Học thêm về Git merge conflict.
+- Ngày 12: Ôn lại toàn bộ để chuẩn bị kiểm tra.
+>>>>>>> Stashed changes
