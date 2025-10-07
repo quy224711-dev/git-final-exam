@@ -1,3 +1,5 @@
 Đây là file tạo trực tuyến.
 Thực hiện từ GitHub web editor.
 Dùng để kiểm tra git pull.
+File này đã được cập nhật tại local.
+Thực hành Git pull và push hoàn tất.
