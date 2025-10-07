@@ -1,0 +1,9 @@
+## Tính năng mới: Quản lý tiến độ học tập
+
+- Cho phép người dùng thêm kế hoạch học tập hàng tuần.
+- Hiển thị tiến độ học theo phần trăm hoàn thành.
+- Gợi ý bài học tiếp theo dựa trên lịch sử học tập.
+- Hỗ trợ đồng bộ dữ liệu qua GitHub.
+- Có giao diện hiển thị biểu đồ tiến độ.
+
+
