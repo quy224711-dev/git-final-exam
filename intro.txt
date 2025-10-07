@@ -1,5 +1,4 @@
-Giới thiệu cá nhân:
-Tôi tên là Nguyễn Quý.
+Hello, this is Nguyen Phu Quy
 Hiện đang học ngành Công nghệ Thông tin.
 Tôi yêu thích lập trình và tìm hiểu về Git.
 Tôi luôn muốn nâng cao kỹ năng làm việc nhóm qua Git.
