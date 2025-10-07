@@ -1,3 +1,5 @@
 - Git giúp quản lý phiên bản code hiệu quả.
 - Dễ dàng cộng tác trong nhóm.
 - Có thể theo dõi và phục hồi thay đổi dễ dàng.
+- Học Git giúp tôi hiểu quy trình phát triển phần mềm chuyên nghiệp.
+- Biết cách xử lý lỗi và khôi phục code.
