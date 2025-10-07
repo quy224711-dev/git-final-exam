@@ -1,0 +1,3 @@
+Đây là file tạo trực tuyến.
+Thực hiện từ GitHub web editor.
+Dùng để kiểm tra git pull.
