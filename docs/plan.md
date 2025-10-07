@@ -9,5 +9,6 @@
 - Ngày 5: Làm bài tập thực tế trên GitHub.
 - Ngày 6: Tự đánh giá kỹ năng Git.
 - Ngày 7: Tổng kết và ghi chú học được.
-
-
+- Ngày 8: Ôn lại kiến thức Git stash.
+- Ngày 9: Làm bài thực hành stash nâng cao.
+- Ngày 10: Tổng hợp tài liệu để nộp.
