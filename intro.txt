@@ -15,3 +15,11 @@ Kỹ năng:
 - Thiết kế cơ sở dữ liệu
 - Giao tiếp nhóm hiệu quả
 
+Kế hoạch học tập:
+- Hoàn thành các khóa học Git nâng cao.
+- Thực hành quản lý nhóm qua GitHub.
+- Nắm vững quy trình pull request và review code.
+- Tham gia các dự án mã nguồn mở.
+- Xây dựng portfolio cá nhân với GitHub.
+
+
